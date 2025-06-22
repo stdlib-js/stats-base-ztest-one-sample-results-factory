@@ -49,6 +49,7 @@
     "@stdlib/stats-base-ztest-one-sample-results-to-json": "github:stdlib-js/stats-base-ztest-one-sample-results-to-json#main",
     "@stdlib/stats-base-ztest-one-sample-results-to-string": "github:stdlib-js/stats-base-ztest-one-sample-results-to-string#main",
     "@stdlib/string-format": "^0.2.2",
+    "@stdlib/utils-define-nonenumerable-read-only-accessor": "^0.2.3",
     "@stdlib/utils-define-nonenumerable-read-only-property": "^0.2.2",
     "@stdlib/utils-define-nonenumerable-read-write-accessor": "^0.2.2",
     "@stdlib/utils-inherit": "^0.2.2",

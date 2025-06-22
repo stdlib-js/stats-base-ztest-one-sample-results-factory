@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-20)
+## Unreleased (2025-06-22)
 
 <section class="features">
 
 ### Features
 
+-   [`c0967b9`](https://github.com/stdlib-js/stdlib/commit/c0967b90a91f39e3995db3c31f29357b4f831ad9) - add static methods to prototype
 -   [`8fc1489`](https://github.com/stdlib-js/stdlib/commit/8fc1489a046839a861413a3bcfa287be85a0f4e1) - add `stats/base/ztest/one-sample-results/factory`
 
 </section>
@@ -22,6 +23,7 @@
 
 <details>
 
+-   [`c0967b9`](https://github.com/stdlib-js/stdlib/commit/c0967b90a91f39e3995db3c31f29357b4f831ad9) - **feat:** add static methods to prototype _(by Athan Reines)_
 -   [`cb4c595`](https://github.com/stdlib-js/stdlib/commit/cb4c595622129c9701d28a9523ccb7453b792f84) - **refactor:** improve type specificity _(by Athan Reines)_
 -   [`29d3852`](https://github.com/stdlib-js/stdlib/commit/29d385286be5302e26125561518d3ec2cf3195cc) - **docs:** fix description _(by Athan Reines)_
 -   [`e0afca6`](https://github.com/stdlib-js/stdlib/commit/e0afca6ec005eeffc805bfca991258e23844c1f7) - **docs:** fix description _(by Athan Reines)_
