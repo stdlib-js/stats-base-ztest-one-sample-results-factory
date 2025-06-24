@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-22)
+## Unreleased (2025-06-24)
 
 <section class="features">
 
 ### Features
 
+-   [`a42b9b9`](https://github.com/stdlib-js/stdlib/commit/a42b9b921e8338cb4fd73198c742950726c1775c) - add `isStruct` static method and update tests
 -   [`c0967b9`](https://github.com/stdlib-js/stdlib/commit/c0967b90a91f39e3995db3c31f29357b4f831ad9) - add static methods to prototype
 -   [`8fc1489`](https://github.com/stdlib-js/stdlib/commit/8fc1489a046839a861413a3bcfa287be85a0f4e1) - add `stats/base/ztest/one-sample-results/factory`
 
@@ -23,6 +24,7 @@
 
 <details>
 
+-   [`a42b9b9`](https://github.com/stdlib-js/stdlib/commit/a42b9b921e8338cb4fd73198c742950726c1775c) - **feat:** add `isStruct` static method and update tests _(by Athan Reines)_
 -   [`c0967b9`](https://github.com/stdlib-js/stdlib/commit/c0967b90a91f39e3995db3c31f29357b4f831ad9) - **feat:** add static methods to prototype _(by Athan Reines)_
 -   [`cb4c595`](https://github.com/stdlib-js/stdlib/commit/cb4c595622129c9701d28a9523ccb7453b792f84) - **refactor:** improve type specificity _(by Athan Reines)_
 -   [`29d3852`](https://github.com/stdlib-js/stdlib/commit/29d385286be5302e26125561518d3ec2cf3195cc) - **docs:** fix description _(by Athan Reines)_
