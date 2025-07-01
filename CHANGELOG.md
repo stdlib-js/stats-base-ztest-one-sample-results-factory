@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-24)
+## Unreleased (2025-07-01)
 
 <section class="features">
 
@@ -24,6 +24,7 @@
 
 <details>
 
+-   [`4b3f6b6`](https://github.com/stdlib-js/stdlib/commit/4b3f6b66882ec35af639463719e8e2fd57bd4d10) - **docs:** fix missing periods _(by Athan Reines)_
 -   [`a42b9b9`](https://github.com/stdlib-js/stdlib/commit/a42b9b921e8338cb4fd73198c742950726c1775c) - **feat:** add `isStruct` static method and update tests _(by Athan Reines)_
 -   [`c0967b9`](https://github.com/stdlib-js/stdlib/commit/c0967b90a91f39e3995db3c31f29357b4f831ad9) - **feat:** add static methods to prototype _(by Athan Reines)_
 -   [`cb4c595`](https://github.com/stdlib-js/stdlib/commit/cb4c595622129c9701d28a9523ccb7453b792f84) - **refactor:** improve type specificity _(by Athan Reines)_
