@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-07-01)
+## Unreleased (2025-12-22)
 
 <section class="features">
 
@@ -24,6 +24,7 @@
 
 <details>
 
+-   [`61046bb`](https://github.com/stdlib-js/stdlib/commit/61046bb1c95923825493592bf78808fa1b18abc5) - **test:** add missing TypeScript declaration tests _(by Philipp Burckhardt)_
 -   [`4b3f6b6`](https://github.com/stdlib-js/stdlib/commit/4b3f6b66882ec35af639463719e8e2fd57bd4d10) - **docs:** fix missing periods _(by Athan Reines)_
 -   [`a42b9b9`](https://github.com/stdlib-js/stdlib/commit/a42b9b921e8338cb4fd73198c742950726c1775c) - **feat:** add `isStruct` static method and update tests _(by Athan Reines)_
 -   [`c0967b9`](https://github.com/stdlib-js/stdlib/commit/c0967b90a91f39e3995db3c31f29357b4f831ad9) - **feat:** add static methods to prototype _(by Athan Reines)_
@@ -44,9 +45,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Philipp Burckhardt
 
 </section>
 
