@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-12-22)
+## Unreleased (2025-12-24)
 
 <section class="features">
 
@@ -24,6 +24,8 @@
 
 <details>
 
+-   [`59455b6`](https://github.com/stdlib-js/stdlib/commit/59455b661612d4c4ed47c25d3077884b985742fc) - **docs:** add `toString`, `toJSON`, and `toDataView` declarations to Z-test results packages _(by Philipp Burckhardt)_
+-   [`0a437aa`](https://github.com/stdlib-js/stdlib/commit/0a437aad60abb626a22840c9bad66414b627749f) - **chore:** remove usage of unsupported option _(by Philipp Burckhardt)_
 -   [`61046bb`](https://github.com/stdlib-js/stdlib/commit/61046bb1c95923825493592bf78808fa1b18abc5) - **test:** add missing TypeScript declaration tests _(by Philipp Burckhardt)_
 -   [`4b3f6b6`](https://github.com/stdlib-js/stdlib/commit/4b3f6b66882ec35af639463719e8e2fd57bd4d10) - **docs:** fix missing periods _(by Athan Reines)_
 -   [`a42b9b9`](https://github.com/stdlib-js/stdlib/commit/a42b9b921e8338cb4fd73198c742950726c1775c) - **feat:** add `isStruct` static method and update tests _(by Athan Reines)_
